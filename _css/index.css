@@ -63,3 +63,248 @@ li	{
 	background-color: #800000;
 	clear: both;
 }
+
+.Sunday {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	float: left;
+	background-size: cover;
+	width: 134px;
+	height: 80px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	border-radius: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.Special1 {
+	float: left;
+	width: 134px;
+	height: 40px;
+	background-size: cover;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+	padding-top: 20px;
+	font-family: "Verdana", "sans-serif";
+	font-size: 13px;
+	color: #ed5628;
+	border-radius: 15px;
+}
+
+.hidden1 {
+	visibility: hidden;
+}
+
+.Monday {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	float: left;
+	background-size: cover;
+	width: 134px;
+	height: 80px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	border-radius: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.Special2 {
+	float: left;
+	width: 134px;
+	height: 40px;
+	background-size: cover;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+	padding-top: 20px;
+	font-family: "Verdana", "sans-serif";
+	font-size: 13px;
+	color: #ed5628;
+	border-radius: 15px;
+}
+
+.hidden2 {
+	visibility: hidden;
+}
+
+.Tuesday {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	float: left;
+	background-size: cover;
+	width: 134px;
+	height: 80px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	border-radius: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.Special3 {
+	float: left;
+	width: 134px;
+	height: 40px;
+	background-size: cover;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+	padding-top: 20px;
+	font-family: "Verdana", "sans-serif";
+	font-size: 13px;
+	color: #ed5628;
+	border-radius: 15px;
+}
+
+.hidden3 {
+	visibility: hidden;
+}
+
+.Wednesday {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	float: left;
+	background-size: cover;
+	width: 134px;
+	height: 80px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	border-radius: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.Special4 {
+	float: left;
+	width: 134px;
+	height: 40px;
+	background-size: cover;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+	padding-top: 20px;
+	font-family: "Verdana", "sans-serif";
+	font-size: 13px;
+	color: #ed5628;
+	border-radius: 15px;
+}
+
+.hidden4 {
+	visibility: hidden;
+}
+
+.Thursday {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	float: left;
+	background-size: cover;
+	width: 134px;
+	height: 80px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	border-radius: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.Special5 {
+	float: left;
+	width: 134px;
+	height: 40px;
+	background-size: cover;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+	padding-top: 20px;
+	font-family: "Verdana", "sans-serif";
+	font-size: 13px;
+	color: #ed5628;
+	border-radius: 15px;
+}
+
+.hidden5 {
+	visibility: hidden;
+}
+
+.Friday {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	float: left;
+	background-size: cover;
+	width: 134px;
+	height: 80px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	border-radius: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.Special6 {
+	float: left;
+	width: 134px;
+	height: 40px;
+	background-size: cover;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+	padding-top: 20px;
+	font-family: "Verdana", "sans-serif";
+	font-size: 13px;
+	color: #ed5628;
+	border-radius: 15px;
+}
+
+.hidden6 {
+	visibility: hidden;
+}
+
+.Saturday {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	float: left;
+	background-size: cover;
+	width: 134px;
+	height: 80px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	border-radius: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.Special7 {
+	float: left;
+	width: 134px;
+	height: 40px;
+	background-size: cover;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+	padding-top: 20px;
+	font-family: "Verdana", "sans-serif";
+	font-size: 13px;
+	color: #ed5628;
+	border-radius: 15px;
+}
+
+.hidden7 {
+	visibility: hidden;
+}
