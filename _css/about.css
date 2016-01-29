@@ -4,6 +4,16 @@ body 	{
 	margin-top: 0px;
 }
 
+#burgerPhoto {
+	width: 250px;
+	height: 200px;
+	background-image: url("../_images/burger.jpg");
+	background-size: cover;
+	margin-top: 5px;
+	margin-left: 5px;
+	border-radius: 20px;
+}
+
 #container	{
 	width: 1000px;
 	margin: 0 auto;
