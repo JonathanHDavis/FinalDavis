@@ -1,9 +1,29 @@
+h1 {
+margin-top: 12px;
+margin-bottom: 12px;
+font-family: "Verdana", "sans-serif";
+color: #A52A2A;
+font-size: 35px;
+font-weight: bold;
+text-align: center;
+}
+
+.menuSection {
+margin-top: 12px;
+margin-bottom: 12px;
+font-family: "Verdana", "sans-serif";
+color: #D2691E;
+font-size: 25px;
+font-weight: bold;
+text-align: center;
+}
+
 .menuItem {
 display: block;
 text-align: center;
 cursor: pointer;
-margin-top: 5px;
-margin-bottom: 5px;
+margin-top: 10px;
+margin-bottom: 10px;
 font-family: "Verdana", "sans-serif";
 color: #A52A2A;
 font-size: 20px;
@@ -32,11 +52,20 @@ z-index: -1;
 
 .lightbox .menuDescription {
 	background-color: #BDB76B;
-	height: 175px;
+	height: 150px;
 	width: 300px;
 	border-radius: 10px;
 	margin-left: 450px;
 	margin-top: 200px;
+}
+
+.description {
+	color: #A52A2A;
+	margin-top: 10px;
+	margin: 10px;
+	padding-top: 5px;
+	font-size: 18px;
+	font-family: "Verdana", "sans-serif";
 }
 
 .lightbox a {
@@ -49,15 +78,6 @@ text-decoration: none;
 text-transform: uppercase;
 color: orange;
 cursor: pointer;
-}
-
-.description {
-	color: #A52A2A;
-	margin-top: 10px;
-	margin: 10px;
-	padding-top: 5px;
-	font-size: 20px;
-	font-family: "Verdana", "sans-serif";
 }
 
 body 	{
