@@ -30,6 +30,12 @@ font-size: 20px;
 font-weight: bold;
 }
 
+
+.menuItem:hover {
+	color: white;
+	text-decoration: none;
+}
+
 .lightbox {
 display: none;
 position: fixed;

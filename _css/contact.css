@@ -4,6 +4,62 @@ body 	{
 	margin-top: 0px;
 }
 
+h1 {
+margin-top: 25px;
+margin-bottom: 25px;
+font-family: "Verdana", "sans-serif";
+color: #A52A2A;
+font-size: 40px;
+font-weight: bold;
+text-align: center;
+}
+
+#socialMedia {
+	margin-top: 12px;
+	margin-bottom: 25px;
+	clear: both;
+	float: left;
+	padding-left: 350px;
+}
+
+#topLine {
+margin-top: 25px;
+margin-bottom: 12px;
+font-family: "Verdana", "sans-serif";
+color: #D2691E;
+font-size: 30px;
+font-weight: bold;
+text-align: center;
+}
+
+#emailLine {
+margin-top: 25px;
+margin-bottom: 25px;
+font-family: "Verdana", "sans-serif";
+color: #D2691E;
+font-size: 30px;
+font-weight: bold;
+text-align: center;
+clear: both;
+}
+
+form {
+	clear: both;
+	padding-left:450px;
+	margin-bottom: 25px;
+}
+
+#emailHeader {
+margin-top: 12px;
+margin-bottom: 12px;
+margin-right: 5px;
+font-family: "Verdana", "sans-serif";
+color: #D2691E;
+font-size: 20px;
+font-weight: bold;
+float: right;
+}
+
 #container	{
 	width: 1000px;
 	margin: 0 auto;
