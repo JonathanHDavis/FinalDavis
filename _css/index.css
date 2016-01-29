@@ -8,6 +8,8 @@ body 	{
 	width: 640px;
 	height: 480px;
 	background-size: cover;
+	margin-left: 200px;
+	border-radius: 20px;
 }
 
 #container	{
@@ -72,8 +74,8 @@ li	{
 
 .Sunday {
 	border-style: solid;
-	border-width: 1px;
-	border-color: black;
+	border-width: 2px;
+	border-color: #D2691E;
 	float: left;
 	background-size: cover;
 	width: 134px;
@@ -84,6 +86,10 @@ li	{
 	border-radius: 20px;
 	padding-top: 20px;
 	text-align: center;
+	color: #D2691E;
+	font-weight: bold;
+	font-family: "Verdana", "sans-serif";
+
 }
 
 .Special1 {
@@ -107,8 +113,8 @@ li	{
 
 .Monday {
 	border-style: solid;
-	border-width: 1px;
-	border-color: black;
+	border-width: 2px;
+	border-color: #D2691E;
 	float: left;
 	background-size: cover;
 	width: 134px;
@@ -119,6 +125,9 @@ li	{
 	border-radius: 20px;
 	padding-top: 20px;
 	text-align: center;
+	color: #D2691E;
+	font-weight: bold;
+	font-family: "Verdana", "sans-serif";
 }
 
 .Special2 {
@@ -142,8 +151,8 @@ li	{
 
 .Tuesday {
 	border-style: solid;
-	border-width: 1px;
-	border-color: black;
+	border-width: 2px;
+	border-color: #D2691E;
 	float: left;
 	background-size: cover;
 	width: 134px;
@@ -154,6 +163,9 @@ li	{
 	border-radius: 20px;
 	padding-top: 20px;
 	text-align: center;
+	color: #D2691E;
+	font-weight: bold;
+	font-family: "Verdana", "sans-serif";
 }
 
 .Special3 {
@@ -177,8 +189,8 @@ li	{
 
 .Wednesday {
 	border-style: solid;
-	border-width: 1px;
-	border-color: black;
+	border-width: 2px;
+	border-color: #D2691E;
 	float: left;
 	background-size: cover;
 	width: 134px;
@@ -189,6 +201,9 @@ li	{
 	border-radius: 20px;
 	padding-top: 20px;
 	text-align: center;
+	color: #D2691E;
+	font-weight: bold;
+	font-family: "Verdana", "sans-serif";
 }
 
 .Special4 {
@@ -212,8 +227,8 @@ li	{
 
 .Thursday {
 	border-style: solid;
-	border-width: 1px;
-	border-color: black;
+	border-width: 2px;
+	border-color: #D2691E;
 	float: left;
 	background-size: cover;
 	width: 134px;
@@ -224,6 +239,9 @@ li	{
 	border-radius: 20px;
 	padding-top: 20px;
 	text-align: center;
+	color: #D2691E;
+	font-weight: bold;
+	font-family: "Verdana", "sans-serif";
 }
 
 .Special5 {
@@ -247,8 +265,8 @@ li	{
 
 .Friday {
 	border-style: solid;
-	border-width: 1px;
-	border-color: black;
+	border-width: 2px;
+	border-color: #D2691E;
 	float: left;
 	background-size: cover;
 	width: 134px;
@@ -259,6 +277,9 @@ li	{
 	border-radius: 20px;
 	padding-top: 20px;
 	text-align: center;
+	color: #D2691E;
+	font-weight: bold;
+	font-family: "Verdana", "sans-serif";
 }
 
 .Special6 {
@@ -282,8 +303,8 @@ li	{
 
 .Saturday {
 	border-style: solid;
-	border-width: 1px;
-	border-color: black;
+	border-width: 2px;
+	border-color: #D2691E;
 	float: left;
 	background-size: cover;
 	width: 134px;
@@ -294,6 +315,9 @@ li	{
 	border-radius: 20px;
 	padding-top: 20px;
 	text-align: center;
+	color: #D2691E;
+	font-weight: bold;
+	font-family: "Verdana", "sans-serif";
 }
 
 .Special7 {
