@@ -8,6 +8,10 @@ font-weight: bold;
 text-align: center;
 }
 
+.hdrimg img {
+	border-radius: 15px;
+}
+
 .menuSection {
 margin-top: 12px;
 margin-bottom: 12px;
